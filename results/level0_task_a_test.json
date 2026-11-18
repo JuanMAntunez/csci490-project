@@ -1,0 +1,70 @@
+{
+  "name": "level0_task_a_test",
+  "time": "2026-11-17 18:32:52",
+  "config": {
+    "features": "tfidf words+bigrams, min_df=3, sublinear_tf",
+    "model": "logistic regression, C=5"
+  },
+  "metrics": {
+    "accuracy": 0.3923333333333333,
+    "macro_f1": 0.3790266757836633,
+    "confusion_matrix": [
+      [
+        136,
+        65,
+        143,
+        28,
+        31,
+        97
+      ],
+      [
+        22,
+        316,
+        8,
+        9,
+        9,
+        136
+      ],
+      [
+        33,
+        26,
+        309,
+        10,
+        10,
+        112
+      ],
+      [
+        24,
+        57,
+        61,
+        61,
+        88,
+        209
+      ],
+      [
+        33,
+        33,
+        35,
+        51,
+        119,
+        229
+      ],
+      [
+        38,
+        45,
+        72,
+        43,
+        66,
+        236
+      ]
+    ],
+    "labels": [
+      "aaai",
+      "acl",
+      "cvpr",
+      "iclr",
+      "icml",
+      "neurips"
+    ]
+  }
+}
