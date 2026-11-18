@@ -1,13 +1,8 @@
-# Project title
+Task A: Which conference is this paper from?
 
-<!--
-This README is your proposal (due Thu 11/5) and, later, the front page of your project.
-Replace every part in <angle brackets> and delete these comments. Keep the headings.
--->
+**Author:** <Juan Antunez> · CSCI 490-B9 Deep Learning, NIU, Fall 2026
 
-**Author:** <your name> · CSCI 490-B9 Deep Learning, NIU, Fall 2026
-
-**AI tool use:** <which tools you used (for example opencode with model X, ChatGPT), and for what>
+**AI tool use:** I used VS Code with the assistance of Claude to create a sample.md file and Data check.py
 
 ## 1. Task
 
